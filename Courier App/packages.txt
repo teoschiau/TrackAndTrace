@@ -1,0 +1,9 @@
+box;Teodor Mihali;33;476;203;0
+bag;Tudor Vladimirescu;7;152;645;1
+box;LALA;6;238;12;0
+bag;Trandafirilor;4;521;500;0
+bag;Teodor Mihali;9;23;172;1
+box;Trandafirilor;3;463;120;0
+bag;LALA;3;12;106;0
+bag;LALA;13;43;23;0
+box;LALA;12;120;23;1

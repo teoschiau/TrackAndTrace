@@ -1,0 +1,3 @@
+Teo;23;34;Tudor Vladimirescu,Teodor Mihali,LALA
+Sami;12;45;LALA,Trandafirilor,Lalelelor
+Maly;12;45;LALA,Trandafirilor,Lalelelor
